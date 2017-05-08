@@ -1,0 +1,5 @@
+<RenderFriend
+  friend={
+    {name: "John", img: "//goo.gl/dL5MXT"}
+  }
+/>

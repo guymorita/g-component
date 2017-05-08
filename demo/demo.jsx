@@ -16,6 +16,26 @@ const localScope = { IntlProvider, messages, locale };
 
 const components = [
   {
+    title: "GuestList",
+    examples: [
+      {
+        type: "playground",
+        code: require("raw-loader!./examples/guest-list.example"),
+        noRender: true
+      }
+    ]
+  },
+  {
+    title: "RenderFriend",
+    examples: [
+      {
+        type: "playground",
+        code: require("raw-loader!./examples/render-friend.example"),
+        noRender: true
+      }
+    ]
+  },
+  {
     title: "GComponent",
     examples: [
       {

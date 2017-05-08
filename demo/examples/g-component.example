@@ -7,7 +7,7 @@
 
   invitees={[
    {name: "electrode", invited: false},
-   {name: "hapi", invited: false},
+   {name: "hapi", invited: true},
    {name: "React", invited: false}
   ]}
 

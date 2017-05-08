@@ -47,7 +47,8 @@ const RenderFriend = ({friend, styleObj, className}) => {
 
 RenderFriend.propTypes = {
   friend: React.PropTypes.object,
-  styleObj: React.PropTypes.object
+  styleObj: React.PropTypes.object,
+  className: React.PropTypes.object
 };
 
 export default RenderFriend;

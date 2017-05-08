@@ -1,20 +1,22 @@
 # g-component
 
-__COMPONENT DESCRIPTION GOES HERE__
-
+Demo component from the Electrode tutorial at http://www.electrode.io/docs/create_reusable_component.html
 
 ## Demo & Examples
-
-Live demo: [.github.io/g-component](http://.github.io/g-component/)
 
 To build the examples locally, run:
 
 ```
-npm install
-npm start
+yarn install --ignore-engines
+gulp open-dev
 ```
 
-Then open [`localhost:8000`](http://localhost:8000) in a browser.
+Then open [`localhost:4000`](http://localhost:4000) in a browser.
+
+## Screenshots
+
+![g-component](g-component.png)
+![render-friend](render-friend.png)
 
 
 ## Installation
